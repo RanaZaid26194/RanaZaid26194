@@ -38,8 +38,9 @@ A private, offline-friendly GPA/SGPA/CGPA calculator built specifically for FAST
 A Python/Playwright-based automation tool that logs into and pulls data from the NUCES FLEX portal across multiple accounts - built for a small group of friends. Handles reCAPTCHA reliability through humanized interaction patterns and runs on a scheduled basis via Windows Task Scheduler.
 🔗 [vigil-x.netlify.app](https://vigil-x.netlify.app)
 
-### AI Chat Session Manager (Browser Extension)
-A browser extension that tracks usage limits on AI chat platforms and exports full prompt/chat history for use with other AI tools. I added features for account-to-account prompt transfer and auto-paste, cutting down on manual copy-pasting between sessions.
+## Open Source Contributions
+
+- **Context Handoff** - a Chromium extension for exporting AI chat sessions and generating handoff prompts across platforms. I contributed the Claude-to-Claude account transfer flow and the auto-paste system - a shared fill strategy that works across React inputs, ProseMirror editors, and plain textareas.
 
 ## Currently Learning
 
@@ -53,4 +54,4 @@ A browser extension that tracks usage limits on AI chat platforms and exports fu
 
 ---
 
-Always open to talking about interesting problems - feel free to reach out !
+Always open to talking about interesting problems - feel free to reach out!
