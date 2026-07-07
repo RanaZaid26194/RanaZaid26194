@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate at FAST-NUCES Lahore - currently in my thir
 
 **Languages**
 - C++, TypeScript, Python - the three I reach for most
-- C, C#, JavaScript, SQL
+- C, C#, SQL
 
 **Frontend**
 - React, TanStack Start, Tailwind CSS, Framer Motion
