@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlignY=55&descSize=18&descColor=8b949e"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlign=49&descAlignY=55&descSize=18&descColor=8b949e"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I%27m%20Zaid%20%F0%9F%91%8B&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%2729%20%40%20FAST-NUCES%20Lahore&descAlign=47&descAlignY=55&descSize=18&descColor=8b949e"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I%27m%20Zaid%20%F0%9F%91%8B&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%2729%20%40%20FAST-NUCES%20Lahore&descAlign=47&descAlignY=55&descSize=18&descColor=8b949e"/> -->
 
 <a href="https://github.com/RanaZaid26194">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%E2%80%94+wiring+AI+to+real+tools;Maintaining+Skeptix+%E2%80%94+citation-backed+AI+research;Iterating+on+GPify+for+NUCES+students;Automating+my+boring+stuff+with+Playwright+%2B+n8n"/>
@@ -36,7 +36,7 @@ about_me:
 
 <br/>
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=2dd4bf"/>
@@ -90,7 +90,7 @@ about_me:
 
 <br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -115,6 +115,7 @@ about_me:
 
 <div align="center">
 
+<br><br>
 *Always open to talking about interesting problems — reach out anytime.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=100&section=footer"/>
