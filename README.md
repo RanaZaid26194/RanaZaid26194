@@ -68,8 +68,6 @@ about_me:
 
 <a href="https://skeptix.netlify.app"><img src="assets/badge_skeptix.png" height="28"/></a>
 
-<br/>
-
 <sub>Citation-backed AI research assistant with Supabase + Google OAuth. Built around citation reliability, multi-format export accuracy, and a "Skeptic Mode" for stricter fact-checking.</sub>
 
 </td>
@@ -79,8 +77,6 @@ about_me:
 
 <a href="https://gpify.vercel.app"><img src="assets/badge_gpify.png" height="28"/></a>
 
-<br/>
-
 <sub>Private, offline-friendly GPA/SGPA/CGPA calculator for FAST-NUCES students. Implements official absolute + MCA-based relative grading exactly. What-if projections, target-percentage solver, PDF/PNG export. 100% client-side.</sub>
 
 </td>
@@ -89,8 +85,6 @@ about_me:
 <br/>
 
 <a href="https://vigil-x.netlify.app"><img src="assets/badge_vigilx.png" height="28"/></a>
-
-<br/>
 
 <sub>Python/Playwright automation that pulls data from the NUCES FLEX portal across multiple accounts. Humanized interaction patterns for reCAPTCHA reliability, scheduled via Windows Task Scheduler.</sub>
 
