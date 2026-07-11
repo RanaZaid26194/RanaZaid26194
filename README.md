@@ -1,57 +1,120 @@
-# Hi, I'm Zaid
+<div align="center">
 
-I'm a Computer Science undergraduate at FAST-NUCES Lahore - currently in my third semester, with a Dean's List record. I build things end-to-end - from scraping and automation scripts to full-stack apps and small tools that solve problems I actually run into.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlignY=55&descSize=18&descColor=8b949e"/>
 
-## What I'm Currently Working On
+<a href="https://github.com/RanaZaid26194">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%E2%80%94+wiring+AI+to+real+tools;Maintaining+Skeptix+%E2%80%94+citation-backed+AI+research;Iterating+on+GPify+for+NUCES+students;Automating+the+boring+stuff+with+Playwright+%2B+n8n"/>
+</a>
 
-- Building and experimenting with **MCP servers** - connecting AI assistants to external tools and workflows
-- Improving **Skeptix**, a citation-backed AI research assistant
-- Maintaining **Vigil-X**, an automation tool for a small group of friends
-- Iterating on **GPify** - a GPA/CGPA calculator built for NUCES students
+<br/>
 
-## Tech Stack
+<a href="https://www.linkedin.com/in/rana-zaid26194"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=2dd4bf" /></a>
+<a href="mailto:ranazaide288@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=2dd4bf" /></a>
+<a href="https://skeptix.netlify.app"><img src="https://img.shields.io/badge/Skeptix-0A0A0A?style=for-the-badge&logo=vercel&logoColor=2dd4bf" /></a>
+<a href="https://gpify.vercel.app"><img src="https://img.shields.io/badge/GPify-0A0A0A?style=for-the-badge&logo=vercel&logoColor=2dd4bf" /></a>
 
-**Languages**
-- C++, TypeScript, Python - the three I reach for most
-- C, C#, SQL
+</div>
 
-**Frontend**
-- React, TanStack Start, Tailwind CSS, Framer Motion
+<br/>
 
-**Backend & Tools**
-- Supabase, Node.js, REST APIs
+```yaml
+about_me:
+  role: "Computer Science Undergraduate — FAST-NUCES Lahore"
+  semester: 3
+  cgpa: 3.77
+  status: "Dean's List"
+  approach: "end-to-end builder — scraping, automation, full-stack apps, small tools that solve real problems"
+  currently_learning: "AI/ML fundamentals — applying them where they intersect with the tools I already build"
+```
 
-**Automation**
-- Playwright, n8n
+<br/>
 
-## Featured Projects
+### 🧰 Tech Stack
 
-### Skeptix
-A citation-backed AI research assistant - deployed with a Supabase backend and Google OAuth. Focused heavily on citation reliability, export accuracy across multiple formats, and a "Skeptic Mode" for stricter fact-checking by default.
-🔗 [skeptix.netlify.app](https://skeptix.netlify.app)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=2dd4bf"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/TanStack-0A0A0A?style=for-the-badge&logo=react&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=2dd4bf"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Playwright-0A0A0A?style=for-the-badge&logo=playwright&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=2dd4bf"/>
+</p>
 
-### GPify
-A private, offline-friendly GPA/SGPA/CGPA calculator built specifically for FAST-NUCES students - implements the official absolute and MCA-based relative grading schemes exactly as published. Includes what-if projections, a target-percentage solver, and PDF/PNG export. 100% client-side - no backend, no account, no analytics.
-🔗 [gpify.vercel.app](https://gpify.vercel.app)
+<br/>
 
-### Vigil-X
-A Python/Playwright-based automation tool that logs into and pulls data from the NUCES FLEX portal across multiple accounts - built for a small group of friends. Handles reCAPTCHA reliability through humanized interaction patterns and runs on a scheduled basis via Windows Task Scheduler.
-🔗 [vigil-x.netlify.app](https://vigil-x.netlify.app)
+### 🚀 Featured Projects
 
-## Open Source Contributions
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Context Handoff** - a Chromium extension for exporting AI chat sessions and generating handoff prompts across platforms. I contributed the Claude-to-Claude account transfer flow and the auto-paste system - a shared fill strategy that works across React inputs, ProseMirror editors, and plain textareas.
+**[Skeptix](https://skeptix.netlify.app)** 🔍
+Citation-backed AI research assistant with Supabase + Google OAuth. Built around citation reliability, multi-format export accuracy, and a "Skeptic Mode" for stricter fact-checking.
 
-## Currently Learning
+</td>
+<td width="50%" valign="top">
 
-- AI/ML - working through the fundamentals and applying them where they intersect with the tools I already build
+**[GPify](https://gpify.vercel.app)** 🎓
+Private, offline-friendly GPA/SGPA/CGPA calculator for FAST-NUCES students. Implements official absolute + MCA-based relative grading exactly. What-if projections, target-percentage solver, PDF/PNG export. 100% client-side.
 
-## Get In Touch
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- GitHub: [@RanaZaid26194](https://github.com/RanaZaid26194)
-- Email: [ranazaide288@gmail.com](mailto:ranazaide288@gmail.com)
-- LinkedIn: [rana-zaid26194](https://www.linkedin.com/in/rana-zaid26194)
+**[Vigil-X](https://vigil-x.netlify.app)** 🛰️
+Python/Playwright automation that pulls data from the NUCES FLEX portal across multiple accounts. Humanized interaction patterns for reCAPTCHA reliability, scheduled via Windows Task Scheduler.
 
----
+</td>
+<td width="50%" valign="top">
 
-Always open to talking about interesting problems - feel free to reach out!
+**Context Handoff** 🔗
+Contributed the Claude-to-Claude account transfer flow and a shared auto-paste system that works across React inputs, ProseMirror editors, and plain textareas.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RanaZaid26194&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Snake animation](https://github.com/RanaZaid26194/RanaZaid26194/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Always open to talking about interesting problems — reach out anytime.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=100&section=footer"/>
+
+</div>
