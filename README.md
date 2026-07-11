@@ -100,7 +100,7 @@ about_me:
 
 <br/>
 
-<img src="https://ranazaid-streak-stats.vercel.app/?user=RanaZaid26194&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+<img src="https://raw.githubusercontent.com/RanaZaid26194/RanaZaid26194/main/profile/streak.svg"/>
 
 </div>
 
