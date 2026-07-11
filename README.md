@@ -115,9 +115,8 @@ about_me:
 
 <div align="center">
 
-<br><br>
 *Always open to talking about interesting problems — reach out anytime.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=85&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=70&section=footer"/>
 
 </div>
