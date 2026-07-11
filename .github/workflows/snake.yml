@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: RanaZaid26194
           outputs: |
-            dist/github-contribution-grid-snake-light.svg?color_snake=%230d9488&color_dots=%23ebedf0,%23fee2e2,%23fca5a5,%23fb7185,%23ef4444
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%232dd4bf&color_dots=%23161b22,%23991b1b,%23dc2626,%23f87171,%23fca5a5
+            dist/github-contribution-grid-snake-light.svg?color_snake=%230d9488&color_dots=%23ebedf0,%23b2f5ea,%235eead4,%232dd4bf,%230f766e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%232dd4bf&color_dots=%23161b22,%230f3d38,%23115e56,%2314b8a6,%232dd4bf
             dist/github-contribution-grid-snake.gif?color_snake=%232dd4bf&color_dots=%23161b22,%230f3d38,%23115e56,%2314b8a6,%232dd4bf&color_background=%230d1117
 
       - uses: crazy-max/ghaction-github-pages@v4
