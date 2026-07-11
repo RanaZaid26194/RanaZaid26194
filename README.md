@@ -25,9 +25,9 @@ about_me:
   role: "CS Undergraduate — FAST-NUCES Lahore"
   semester: 3
   cgpa: 3.77
-  status: "Dean's List"
+  status: "2x Dean's List"
   approach: >
-    end-to-end builder — automation, full-stack apps,
+    end-to-end builder | automation, full-stack apps,
     small tools that solve problems I actually run into
   currently_learning: >
     AI/ML fundamentals, applied where they meet
