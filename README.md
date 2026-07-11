@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlign=49&descAlignY=55&descSize=18&descColor=8b949e"/>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I%27m%20Zaid%20%F0%9F%91%8B&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%2729%20%40%20FAST-NUCES%20Lahore&descAlign=47&descAlignY=55&descSize=18&descColor=8b949e"/> -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b2635&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=2dd4bf&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlignY=55&descSize=18&descColor=8b949e#gh-dark-mode-only)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:e6fffa&height=200&section=header&text=Hi%2C%20I'm%20Zaid%20👋&fontSize=42&fontColor=0d9488&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%40%20FAST-NUCES%20Lahore&descAlignY=55&descSize=18&descColor=57606a#gh-light-mode-only)
 
 <a href="https://github.com/RanaZaid26194">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%E2%80%94+wiring+AI+to+real+tools;Maintaining+Skeptix+%E2%80%94+citation-backed+AI+research;Iterating+on+GPify+for+NUCES+students;Automating+my+boring+stuff+with+Playwright+%2B+n8n"/>
@@ -66,21 +65,33 @@ about_me:
 <tr>
 <td width="33%" valign="top" align="center">
 
+<br/>
+
 <a href="https://skeptix.netlify.app"><img src="assets/badge_skeptix.png" height="28"/></a>
+
+<br/><br/>
 
 <sub>Citation-backed AI research assistant with Supabase + Google OAuth. Built around citation reliability, multi-format export accuracy, and a "Skeptic Mode" for stricter fact-checking.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
+<br/>
+
 <a href="https://gpify.vercel.app"><img src="assets/badge_gpify.png" height="28"/></a>
+
+<br/><br/>
 
 <sub>Private, offline-friendly GPA/SGPA/CGPA calculator for FAST-NUCES students. Implements official absolute + MCA-based relative grading exactly. What-if projections, target-percentage solver, PDF/PNG export. 100% client-side.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
+<br/>
+
 <a href="https://vigil-x.netlify.app"><img src="assets/badge_vigilx.png" height="28"/></a>
+
+<br/><br/>
 
 <sub>Python/Playwright automation that pulls data from the NUCES FLEX portal across multiple accounts. Humanized interaction patterns for reCAPTCHA reliability, scheduled via Windows Task Scheduler.</sub>
 
@@ -94,12 +105,15 @@ about_me:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&cache_seconds=86400#gh-dark-mode-only"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0d9488&icon_color=0d9488&text_color=24292f&ring_color=0d9488&cache_seconds=86400#gh-light-mode-only"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&cache_seconds=86400#gh-dark-mode-only"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&hide_border=true&bg_color=ffffff&title_color=0d9488&text_color=24292f&langs_count=8&cache_seconds=86400#gh-light-mode-only"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RanaZaid26194&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+<img src="https://streak-stats.demolab.com/?user=RanaZaid26194&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e#gh-dark-mode-only"/>
+<img src="https://streak-stats.demolab.com/?user=RanaZaid26194&hide_border=true&background=ffffff&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a#gh-light-mode-only"/>
 
 </div>
 
@@ -107,7 +121,8 @@ about_me:
 
 <div align="center">
 
-![Snake animation](https://github.com/RanaZaid26194/RanaZaid26194/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/RanaZaid26194/RanaZaid26194/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake](https://github.com/RanaZaid26194/RanaZaid26194/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 
 </div>
 
@@ -117,6 +132,7 @@ about_me:
 
 *Always open to talking about interesting problems — reach out anytime.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=100&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b2635,100:0d1117&height=100&section=footer#gh-dark-mode-only)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e6fffa,100:ffffff&height=100&section=footer#gh-light-mode-only)
 
 </div>
