@@ -100,7 +100,7 @@ about_me:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RanaZaid26194/RanaZaid26194/main/profile/streak.svg"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
 
 </div>
 
