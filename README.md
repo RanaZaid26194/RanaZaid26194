@@ -95,12 +95,12 @@ about_me:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
+<img height="165" src="https://ranazaid-stats.vercel.app/api?username=RanaZaid26194&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&cache_seconds=86400"/>
+<img height="165" src="https://ranazaid-stats.vercel.app/api/top-langs/?username=RanaZaid26194&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RanaZaid26194/RanaZaid26194/main/profile/streak.svg"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
 
 </div>
 
