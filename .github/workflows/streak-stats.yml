@@ -16,8 +16,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats (custom slim-bar fork)
-        uses: RanaZaid26194/Forked-github-readme-streak-stats@vercel
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=RanaZaid26194&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E
           path: profile/streak.svg

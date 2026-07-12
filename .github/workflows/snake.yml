@@ -14,14 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: RanaZaid26194/Forked-snk/svg-only@main
+        id: snake-svg
         with:
           github_user_name: RanaZaid26194
           outputs: |
-            dist/github-contribution-grid-snake-light.svg?color_snake=%230d9488&color_dots=%23ebedf0,%23b2f5ea,%235eead4,%232dd4bf,%230f766e
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%232dd4bf&color_dots=%23161b22,%230f3d38,%23115e56,%2314b8a6,%232dd4bf
-            dist/github-contribution-grid-snake.gif?color_snake=%232dd4bf&color_dots=%23161b22,%230f3d38,%23115e56,%2314b8a6,%232dd4bf&color_background=%230d1117
+            dist/github-contribution-grid-snake-light.svg?color_snake=%230d9488&color_dots=%23ebedf0,%23b2f5ea,%235eead4,%232dd4bf,%230f766e&color_progress_track=%23e5e7eb&color_progress_fill=%230d9488
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%232dd4bf&color_dots=%23161b22,%230f3d38,%23115e56,%2314b8a6,%232dd4bf&color_progress_track=%2330363d&color_progress_fill=%2314b8a6
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
