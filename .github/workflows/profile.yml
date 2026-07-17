@@ -1,0 +1,58 @@
+# This workflow keeps the main profile card, assets/dark.svg and assets/light.svg, and the
+# small badges under it, up to date automatically. It runs once a day on a
+# schedule, can also be triggered by hand from the Actions tab, and runs
+# again automatically whenever the scripts or portrait.txt actually change.
+name: Refresh profile card
+
+on:
+  schedule:
+    # runs once a day, 05:00 IST (23:30 UTC the previous day)
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - generate_profile.py
+      - generate_badges.py
+      - portrait.txt
+
+# Write access is needed here because the last step in this workflow commits
+# the freshly generated svg files straight back into the repository.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      # Grabs a full copy of the repository so the scripts below have
+      # something to read from and somewhere to write their output to.
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # This step rebuilds dark.svg and light.svg from scratch, pulling in
+      # live stats from the GitHub API using the built in GITHUB_TOKEN.
+      - name: Regenerate dark.svg and light.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_profile.py
+
+      # This step rebuilds every badge under assets/, using the same theme
+      # colours as the card above so everything stays visually consistent.
+      - name: Regenerate project badges
+        run: python generate_badges.py
+
+      # If nothing actually changed (for example the stats came back the
+      # same as yesterday), git diff --cached --quiet will be true and the
+      # commit is skipped entirely, so this workflow never creates empty
+      # commits just for the sake of running.
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "chore: refresh profile card"
+          git push

@@ -1,0 +1,5 @@
+# Your own source photo for setup/photo_to_ascii.py never needs to be
+# committed, only the portrait.txt it produces does.
+your_photo.jpg
+__pycache__/
+*.pyc

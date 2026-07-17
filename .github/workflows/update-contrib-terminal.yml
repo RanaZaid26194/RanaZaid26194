@@ -1,0 +1,64 @@
+# This workflow keeps the terminal styled contribution graph at the bottom
+# of the profile fresh. It runs once a day on a schedule, can be triggered
+# by hand from the Actions tab, and also runs on every push to main so the
+# graph updates immediately after any relevant change.
+name: Update contribution terminal panel
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+# Write access is needed so the workflow can commit the freshly generated
+# svg files back into the repository once it is done.
+permissions:
+  contents: write
+
+# Only one run of this workflow should ever be in flight at a time, so a new
+# run cancels an older one instead of the two racing to push at once.
+concurrency:
+  group: contribution-terminal
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Runs the actual generator script, which talks to the GitHub GraphQL
+      # API using the built in token and writes both theme variants of the
+      # contribution panel straight into assets/.
+      - name: Generate live contribution panel
+        env:
+          GH_USERNAME: RanaZaid26194
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-contrib-terminal.js
+
+      # Only commits and pushes if the generated files actually changed,
+      # and rebases against main first in case another commit landed while
+      # this workflow was running, so the push never gets rejected.
+      - name: Commit updated SVG if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/contrib-terminal-dark.svg assets/contrib-terminal-light.svg
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh live contribution panel"
+
+          git pull --rebase origin main
+          git push origin main

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88.0" height="32" viewBox="0 0 88.0 32" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<rect x="0.75" y="0.75" width="86.5" height="30.5" rx="16.0" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="21.0" cy="16.0" r="9" fill="#58a6ff" opacity="0.15"/>
+<g transform="translate(10.65,5.65) scale(0.8625)"><path d="M2 5.5C2 4.67 2.67 4 3.5 4h17c.83 0 1.5.67 1.5 1.5v13c0 .83-.67 1.5-1.5 1.5h-17C2.67 20 2 19.33 2 18.5v-13zm2.2.5 7.8 6.2L19.8 6H4.2zM3.5 7.6v10.9h17V7.6l-8.5 6.75c-.29.23-.71.23-1 0L3.5 7.6z" fill="#58a6ff"/></g>
+<text x="38.0" y="20.5" font-size="13" font-weight="600" fill="#c9d1d9">Email</text>
+</svg>
