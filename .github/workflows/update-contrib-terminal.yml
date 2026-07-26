@@ -6,7 +6,7 @@ name: Update contribution terminal panel
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
+    - cron: "0 * * * *"   # run every hour daily
   workflow_dispatch: {}
   push:
     branches: [main]
