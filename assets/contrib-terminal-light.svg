@@ -404,6 +404,7 @@
 <rect x="760" y="134" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-07-25: 11 contributions</title></rect>
 <rect x="774" y="50" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-07-26: 10 contributions</title></rect>
 <rect x="774" y="64" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-07-27: 3 contributions</title></rect>
+<rect x="774" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-07-28: 0 contributions</title></rect>
 
 
   <text x="46" y="182" class="stat-num">1,404</text>
@@ -414,6 +415,6 @@
   <text x="210.4" y="202" class="dim"> · longest </text>
   <text x="282.4" y="202" class="stat-num">28 days</text>
 
-  <text x="788" y="182" text-anchor="end" class="dim">07-27-2025 &#8594; 07-27-2026</text>
+  <text x="788" y="182" text-anchor="end" class="dim">07-27-2025 &#8594; 07-28-2026</text>
   <text x="788" y="202" text-anchor="end" class="dim">best day <tspan class="stat-num">75</tspan> on 06-20-2026</text>
 </svg>
