@@ -22,6 +22,8 @@
 
 <a href="https://www.linkedin.com/in/rana-zaid26194#gh-dark-mode-only"><img src="assets/badge_linkedin_dark.svg#gh-dark-mode-only" height="32" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/rana-zaid26194#gh-light-mode-only"><img src="assets/badge_linkedin_light.svg#gh-light-mode-only" height="32" alt="LinkedIn"></a>
+<a href="https://kafin.netlify.app#gh-dark-mode-only"><img src="assets/badge_kafin_dark.svg#gh-dark-mode-only" height="32" alt="Kafin"></a>
+<a href="https://kafin.netlify.app#gh-light-mode-only"><img src="assets/badge_kafin_light.svg#gh-light-mode-only" height="32" alt="Kafin"></a>
 <a href="https://github.com/RanaZaid26194#gh-dark-mode-only"><img src="assets/badge_github_dark.svg#gh-dark-mode-only" height="32" alt="GitHub"></a>
 <a href="https://github.com/RanaZaid26194#gh-light-mode-only"><img src="assets/badge_github_light.svg#gh-light-mode-only" height="32" alt="GitHub"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranazaide288@gmail.com#gh-dark-mode-only"><img src="assets/badge_email_dark.svg#gh-dark-mode-only" height="32" alt="Email"></a>
@@ -32,8 +34,6 @@
 <a href="https://vigil-x.netlify.app#gh-light-mode-only"><img src="assets/badge_vigilx_light.svg#gh-light-mode-only" height="32" alt="Vigil-X"></a>
 <a href="https://gpify.vercel.app#gh-dark-mode-only"><img src="assets/badge_gpify_dark.svg#gh-dark-mode-only" height="32" alt="Gpify"></a>
 <a href="https://gpify.vercel.app#gh-light-mode-only"><img src="assets/badge_gpify_light.svg#gh-light-mode-only" height="32" alt="Gpify"></a>
-<a href="https://kafin.netlify.app#gh-dark-mode-only"><img src="assets/badge_kafin_dark.svg#gh-dark-mode-only" height="32" alt="Kafin"></a>
-<a href="https://kafin.netlify.app#gh-light-mode-only"><img src="assets/badge_kafin_light.svg#gh-light-mode-only" height="32" alt="Kafin"></a>
 
 </div>
 
