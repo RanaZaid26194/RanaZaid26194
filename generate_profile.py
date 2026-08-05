@@ -86,7 +86,7 @@ INFO = [
     ("GitHub",   "github.com/RanaZaid26194", "accent"),
     ("In",       "linkedin.com/in/rana-zaid26194", "accent"),
     ("Mail",     "ranazaide288@gmail.com", "accent"),
-    # ("Web",      "your-portfolio-url", "accent"),
+    ("Web",      "kafin.netlify.app/", "accent"),
 ]
 
 # These two palettes are what give the card its GitHub native look. Every
