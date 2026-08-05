@@ -72,7 +72,7 @@ SKEPTIX_ICON = dict(
 BADGES = [
     dict(key="linkedin", label="LinkedIn", url="https://www.linkedin.com/in/rana-zaid26194", icon=LINKEDIN_ICON, mono=None),
     dict(key="github",   label="GitHub",   url="https://github.com/RanaZaid26194",           icon=GITHUB_ICON,   mono=None),
-    dict(key="email",    label="Email",    url="mailto:ranazaide288@gmail.com",              icon=EMAIL_ICON,    mono=None),
+    dict(key="email",    label="Email",    url="https://mail.google.com/mail/?view=cm&fs=1&to=ranazaide288@gmail.com", icon=EMAIL_ICON,    mono=None),
     dict(key="skeptix",  label="Skeptix",  url="https://skeptix.netlify.app",                icon=SKEPTIX_ICON, mono=None),
     dict(key="vigilx",   label="Vigil-X",  url="https://vigil-x.netlify.app",                icon=VIGILX_ICON, mono=None),
     dict(key="gpify",    label="Gpify",    url="https://gpify.vercel.app",                   icon=GPIFY_ICON, mono=None),
