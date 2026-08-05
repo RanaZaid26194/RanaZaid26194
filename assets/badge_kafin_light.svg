@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88.0" height="32" viewBox="0 0 88.0 32" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<rect x="0.75" y="0.75" width="86.5" height="30.5" rx="16.0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+<circle cx="21.0" cy="16.0" r="9" fill="#0969da" opacity="0.15"/>
+<g transform="translate(10.65,5.65) scale(0.8625)"><path d="M4 4 L11 12 L4 20 L6.5 20 L13.5 12 L6.5 4 Z M13 17 L20.5 17 L20.5 19.5 L13 19.5 Z" fill="#0969da"/></g>
+<text x="38.0" y="20.5" font-size="13" font-weight="600" fill="#1f2328">Kafin</text>
+</svg>

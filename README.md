@@ -32,6 +32,8 @@
 <a href="https://vigil-x.netlify.app#gh-light-mode-only"><img src="assets/badge_vigilx_light.svg#gh-light-mode-only" height="32" alt="Vigil-X"></a>
 <a href="https://gpify.vercel.app#gh-dark-mode-only"><img src="assets/badge_gpify_dark.svg#gh-dark-mode-only" height="32" alt="Gpify"></a>
 <a href="https://gpify.vercel.app#gh-light-mode-only"><img src="assets/badge_gpify_light.svg#gh-light-mode-only" height="32" alt="Gpify"></a>
+<a href="https://kafin.netlify.app#gh-dark-mode-only"><img src="assets/badge_kafin_dark.svg#gh-dark-mode-only" height="32" alt="Kafin"></a>
+<a href="https://kafin.netlify.app#gh-light-mode-only"><img src="assets/badge_kafin_light.svg#gh-light-mode-only" height="32" alt="Kafin"></a>
 
 </div>
 
