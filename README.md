@@ -32,8 +32,12 @@
 <a href="https://skeptix.netlify.app#gh-light-mode-only"><img src="assets/badge_skeptix_light.svg#gh-light-mode-only" height="32" alt="Skeptix"></a>
 <a href="https://vigil-x.netlify.app#gh-dark-mode-only"><img src="assets/badge_vigilx_dark.svg#gh-dark-mode-only" height="32" alt="Vigil-X"></a>
 <a href="https://vigil-x.netlify.app#gh-light-mode-only"><img src="assets/badge_vigilx_light.svg#gh-light-mode-only" height="32" alt="Vigil-X"></a>
+<a href="https://sec-swap.vercel.app#gh-dark-mode-only"><img src="assets/badge_secswap_dark.svg#gh-dark-mode-only" height="32" alt="Sec Swap"></a>
+<a href="https://sec-swap.vercel.app#gh-light-mode-only"><img src="assets/badge_secswap_light.svg#gh-light-mode-only" height="32" alt="Sec Swap"></a>
 <a href="https://gpify.vercel.app#gh-dark-mode-only"><img src="assets/badge_gpify_dark.svg#gh-dark-mode-only" height="32" alt="Gpify"></a>
 <a href="https://gpify.vercel.app#gh-light-mode-only"><img src="assets/badge_gpify_light.svg#gh-light-mode-only" height="32" alt="Gpify"></a>
+<a href="https://the-dockit.vercel.app#gh-dark-mode-only"><img src="assets/badge_dockit_dark.svg#gh-dark-mode-only" height="32" alt="DocKit"></a>
+<a href="https://the-dockit.vercel.app#gh-light-mode-only"><img src="assets/badge_dockit_light.svg#gh-light-mode-only" height="32" alt="DocKit"></a>
 
 </div>
 
