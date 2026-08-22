@@ -407,17 +407,17 @@
 <rect x="774" y="78" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-18: 1 contributions</title></rect>
 <rect x="774" y="92" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-19: 5 contributions</title></rect>
 <rect x="774" y="106" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-20: 7 contributions</title></rect>
-<rect x="774" y="120" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-21: 2 contributions</title></rect>
-<rect x="774" y="134" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-22: 6 contributions</title></rect>
+<rect x="774" y="120" width="11" height="11" rx="2" fill="#9be9a8"><title>2026-08-21: 1 contributions</title></rect>
+<rect x="774" y="134" width="11" height="11" rx="2" fill="#ebedf0"><title>2026-08-22: 0 contributions</title></rect>
 
 
-  <text x="46" y="182" class="stat-num">1,884</text>
+  <text x="46" y="182" class="stat-num">1,877</text>
   <text x="89.5" y="182" class="stat-txt"> contributions in the last year</text>
 
   <text x="46" y="202" class="dim">current streak </text>
-  <text x="154" y="202" class="stat-num">54 days</text>
+  <text x="154" y="202" class="stat-num">53 days</text>
   <text x="210.4" y="202" class="dim"> · longest </text>
-  <text x="282.4" y="202" class="stat-num">54 days</text>
+  <text x="282.4" y="202" class="stat-num">53 days</text>
 
   <text x="788" y="182" text-anchor="end" class="dim">08-17-2025 &#8594; 08-22-2026</text>
   <text x="788" y="202" text-anchor="end" class="dim">best day <tspan class="stat-num">77</tspan> on 08-08-2026</text>
