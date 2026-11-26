@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="795" viewBox="0 0 980 795" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="830" viewBox="0 0 980 830" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
 <style>
     .art  { fill:#bc8cff; font-size:6.2px; white-space:pre; }
     .key  { fill:#3fb950; font-size:13px; font-weight:700; }
@@ -16,7 +16,7 @@
     @keyframes blink { 50% { opacity:0; } }
     .artline { opacity:1; animation: fade .3s ease backwards; }
     </style>
-<rect x="1" y="1" width="978" height="793" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<rect x="1" y="1" width="978" height="828" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 <path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
 <line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
 <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
@@ -155,15 +155,18 @@
 <text x="448" y="592.5" class="key row" style="animation-delay:2.31s">DocKit</text>
 <text x="540" y="592.5" class="wrn row" style="animation-delay:2.31s">Renter copilot for affordable-housing paperwork</text>
 <text x="540" y="610.0" class="mut row" style="animation-delay:2.38s">in-browser doc checks, built at Hack Nation&#x27;s 6th Hackathon</text>
-<text x="448" y="647.5" class="sec row" style="animation-delay:2.45s">~/reach</text>
-<text x="448" y="665.0" class="key row" style="animation-delay:2.52s">GitHub</text>
-<text x="540" y="665.0" class="acc row" style="animation-delay:2.52s">github.com/RanaZaid26194</text>
-<text x="448" y="682.5" class="key row" style="animation-delay:2.59s">In</text>
-<text x="540" y="682.5" class="acc row" style="animation-delay:2.59s">linkedin.com/in/rana-zaid26194</text>
-<text x="448" y="700.0" class="key row" style="animation-delay:2.66s">Mail</text>
-<text x="540" y="700.0" class="acc row" style="animation-delay:2.66s">ranazaide288@gmail.com</text>
-<text x="448" y="717.5" class="key row" style="animation-delay:2.73s">Web</text>
-<text x="540" y="717.5" class="acc row" style="animation-delay:2.73s">kafin.netlify.app/</text>
-<text x="30" y="771" class="row" style="animation-delay:2.90s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">building automation, games and backend systems</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="771" class="mut" text-anchor="end">last updated 26 Nov 2026, 10:50 IST</text>
+<text x="448" y="627.5" class="key row" style="animation-delay:2.45s">Nusxa</text>
+<text x="540" y="627.5" class="wrn row" style="animation-delay:2.45s">AI medication companion for prescriptions and reminders</text>
+<text x="540" y="645.0" class="mut row" style="animation-delay:2.52s">React Native + Expo · EN/UR · Alibaba Cloud AI Hackathon</text>
+<text x="448" y="682.5" class="sec row" style="animation-delay:2.59s">~/reach</text>
+<text x="448" y="700.0" class="key row" style="animation-delay:2.66s">GitHub</text>
+<text x="540" y="700.0" class="acc row" style="animation-delay:2.66s">github.com/RanaZaid26194</text>
+<text x="448" y="717.5" class="key row" style="animation-delay:2.73s">In</text>
+<text x="540" y="717.5" class="acc row" style="animation-delay:2.73s">linkedin.com/in/rana-zaid26194</text>
+<text x="448" y="735.0" class="key row" style="animation-delay:2.80s">Mail</text>
+<text x="540" y="735.0" class="acc row" style="animation-delay:2.80s">ranazaide288@gmail.com</text>
+<text x="448" y="752.5" class="key row" style="animation-delay:2.87s">Web</text>
+<text x="540" y="752.5" class="acc row" style="animation-delay:2.87s">kafin.netlify.app/</text>
+<text x="30" y="806" class="row" style="animation-delay:3.04s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">building automation, games and backend systems</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="806" class="mut" text-anchor="end">last updated 26 Nov 2026, 22:24 IST</text>
 </svg>
