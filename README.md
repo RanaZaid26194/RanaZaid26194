@@ -38,6 +38,8 @@
 <a href="https://gpify.vercel.app#gh-light-mode-only"><img src="assets/badge_gpify_light.svg#gh-light-mode-only" height="32" alt="Gpify"></a>
 <a href="https://the-dockit.vercel.app#gh-dark-mode-only"><img src="assets/badge_dockit_dark.svg#gh-dark-mode-only" height="32" alt="DocKit"></a>
 <a href="https://the-dockit.vercel.app#gh-light-mode-only"><img src="assets/badge_dockit_light.svg#gh-light-mode-only" height="32" alt="DocKit"></a>
+<a href="https://github.com/abdulwahabnauman/Nusxa/releases/latest#gh-dark-mode-only"><img src="assets/badge_nusxa_dark.svg#gh-dark-mode-only" height="32" alt="Nusxa"></a>
+<a href="https://github.com/abdulwahabnauman/Nusxa/releases/latest#gh-light-mode-only"><img src="assets/badge_nusxa_light.svg#gh-light-mode-only" height="32" alt="Nusxa"></a>
 
 </div>
 

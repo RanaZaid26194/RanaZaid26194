@@ -82,6 +82,8 @@ INFO = [
     ("",         "grading schemes · what-if mode · PDF/PNG export", "muted"),
     ("DocKit",   "Renter copilot for affordable-housing paperwork", "warn"),
     ("",         "in-browser doc checks, built at Hack Nation's 6th Hackathon", "muted"),
+    ("Nusxa",    "AI medication companion for prescriptions and reminders", "warn"),
+    ("",         "React Native + Expo · EN/UR · Alibaba Cloud AI Hackathon", "muted"),
     ("__blank__", "", ""),
     # ("__section__", "~/highlights", ""),
     # (add awards here when ready)
